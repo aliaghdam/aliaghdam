@@ -1,0 +1,114 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/better-studio/better-amp/commit/a69703ad0461e62d98672dad985f1d1b77e71710\"><strong>a</strong>69703ad0461e62d98672dad985f1d1b77e71710</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/better-studio/better-amp/commit/ab7ff54aac9cd29f97ab649d6490cc1b03cbb83b\"><strong>ab</strong>7ff54aac9cd29f97ab649d6490cc1b03cbb83b</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/better-studio/better-amp/commit/43ff63b23de118332d2a81a1241639fb63c9c801\">43ff63b</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/3cae8dca2163a47492438db2407e350c1518825b\">3cae8dc</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/3c6ae114d2140fbeab8eb4aeb8e0702d112ad696\">3c6ae11</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/04262101e548474261e50f72051e7a3995178b8b\">0426210</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/3733abdd54290d22dcd564df2936a2f9644c0acd\">3733abd</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/better-studio/better-amp/commit/3b013fe7222a5d8eb2d0a9dc1aa640561ff2a190\">3b013fe</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/f9380a5e98498dae189dd77989e15a0a34a80f31\">f9380a5</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/fe52ae596842e11ac2ef30ba15a20fa5533b83a1\">fe52ae5</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/8794148c134472892a61f2fc453007c9f1afcadb\">8794148</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/f99ff2d9ca788905d9cf2816248c424dcada0cc1\">f99ff2d</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/0985df7ea9e5b12c1a37896f64ee6442fbd35829\">0985df7</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/better-studio/better-amp/commit/5d58413ad6c50c6759eda962269ae334819e250c\">5d58413</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/7c6be5392b5f4c6fe2166b72ebf2f976679635dd\">7c6be53</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/460b56094755a6d8c4f1f12a6a2bd6b56fa87af5\">460b560</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/45e4461392c5a788088781a77669b10f809b74bc\">45e4461</a>\n- <a href=\"https://github.com/aliaghdam/breadcrumb-trail/commit/840ca1323fbc1a33ed427cb6f016e437d176b6b7\">840ca13</a>\n- <a href=\"https://github.com/aliaghdam/breadcrumb-trail/commit/2d22ff16bfb1c5d4e3f9a6aadd449c70a7f561b5\">2d22ff1</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-10.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/aliaghdam/breadcrumb-trail/commit/2d22ff16bfb1c5d4e3f9a6aadd449c70a7f561b5\">2d22ff1</a>: Fix: bbPress user profile and other pages is not showing in breadcrumb!\n\nIt shows only home or 404 for users pages inside bbPress!\n- <a href=\"https://github.com/aliaghdam/breadcrumb-trail/commit/582f5ae13a63ed1c483b6091b7bb998a3510b86f\">582f5ae</a>: Fix: Endless while when term is not valid!",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/better-studio/better-amp/commit/044c1560bce12354567ae6ecc14c1011c9b66758\">044c156</a>: Fix: \"Lazy Load XT\" plugin fix.\n- <a href=\"https://github.com/better-studio/better-amp/commit/a4fe3738bf4a27faa8bbfb4b048f675f38c6e6ad\">a4fe373</a>: Fix: Lazy Load plugin fix.\n- <a href=\"https://github.com/better-studio/better-amp/commit/a86428e4ea1cfa8d2bfdb34ba13e464a24d1a08b\">a86428e</a>: Fix: WP Rocket lazy load fix added.",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-3.png?raw=true"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/better-studio/better-amp/commit/f7c2e4f58fee88fb26fad1d5a15a809da85d1d32\">f7c2e4f</a>: Fix: WooCommerce templates are overriding out of AMP!\n\nreported: http://community.betterstudio.com/supports/ticket/desktopresponsive-version-links-to-amp-version-view-cart-button/\n\nThanks ptsadmin\n- <a href=\"https://github.com/better-studio/better-amp/commit/8ad580a0e39405c938ff139df3b95192345fc351\">8ad580a</a>: Fix: Facebook Comments Plugin compatibility\n\nExtra codes (js and markups) removed. We will publish Better Facebook Comments plugin to add FB comments into AMP.\n- <a href=\"https://github.com/better-studio/better-amp/commit/411045c2807a4a969a9f7b37e50d91816ed41f93\">411045c</a>: Fix: Santitize value_url fixed to not print empty src!\n- <a href=\"https://github.com/better-studio/better-amp/commit/03b75498e83bd07f1aa36761b7b663b0fb0f16e3\">03b7549</a>: Fix: AMP-IFRAME sanitizer improved to force protocol attribute\n\nThis needed for validation and also iFrame component.",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-4.png?raw=true"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/better-studio/better-amp/commit/1a27ab1742035a839564064de97e9f5f179a3778\">1a27ab1</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/db25938d237ed4ac527d252c049ddfd944db45c5\">db25938</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/7c06e219d4a20bb8a76db8e55f3f70ec62f51b7c\">7c06e21</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/080ee997ad3edf56cf37eb1c81ed13e01d8b9549\">080ee99</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/c762f2554ea53fa369d654c6bee85788bc3a6c63\">c762f25</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/delorean/delorean.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"to\".",
+    "body": "My favorite commit message words are:\n\n1. to (used 64 times)\n2. and (used 44 times)\n3. style (used 35 times)\n4. for (used 34 times)\n5. fixed: (used 31 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/better-studio/better-amp/issues/8\">#8</a>: Feature Request: Specific content for AMP version of post\n- <a href=\"https://github.com/better-studio/better-amp/issues/14\">#14</a>: Feature Request: Typography options\n- <a href=\"https://github.com/better-studio/better-amp/issues/13\">#13</a>: Feature Request: Custom CSS option for AMP\n- <a href=\"https://github.com/better-studio/better-amp/issues/16\">#16</a>: Feature Request: Attachment page support\n- <a href=\"https://github.com/better-studio/better-amp/issues/6\">#6</a>: Feature Request: Ads Management \n\n And many more...",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/better-studio/better-amp/commit/61043425fefe51078eb94c9a8576784c2a64dd7f\">6104342</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/36744ab9a1bd8c417c55eec60ee5d43456523db1\">36744ab</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/ada83959dddf2356e3b0e5be1a853fea4d5c4361\">ada8395</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/43ccbbab6e4e84625beebf6d87d2eabd288b5dc7\">43ccbba</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/4b812900b6e013278738ee48047097b0623650e6\">4b81290</a>\n- <a href=\"https://github.com/better-studio/better-amp/commit/c4430d5136d233754032030e609f0618bcb2b7e7\">c4430d5</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/cosmetic-commit/cosmetic-commit.png?raw=true"
+  }
+]
