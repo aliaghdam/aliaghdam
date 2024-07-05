@@ -6,8 +6,8 @@ My favorite commit message words are:
 
 1. to (used 64 times)
 2. and (used 44 times)
-3. style (used 35 times)
-4. for (used 34 times)
+3. for (used 36 times)
+4. style (used 35 times)
 5. fixed: (used 31 times)
 
 
