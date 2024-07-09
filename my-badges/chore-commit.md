@@ -4,7 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/aliaghdam/gutenberg/commit/a493ae8f2aa65468dd6982608bd06e9e67cf1027">a493ae8</a>: chore: props order
+- <a href="https://github.com/aliaghdam/gutenberg/commit/33ac5daf1fb0e373d6958c774bfd5bd4fb396cd6">33ac5da</a>: chore: remove internal class name from prop description.
+
+Co-authored-by: Marco Ciampini <marco.ciampo@gmail.com>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

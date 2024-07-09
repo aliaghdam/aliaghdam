@@ -122,7 +122,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/aliaghdam/gutenberg/commit/a493ae8f2aa65468dd6982608bd06e9e67cf1027\">a493ae8</a>: chore: props order",
+    "body": "Commits:\n\n- <a href=\"https://github.com/aliaghdam/gutenberg/commit/33ac5daf1fb0e373d6958c774bfd5bd4fb396cd6\">33ac5da</a>: chore: remove internal class name from prop description.\n\nCo-authored-by: Marco Ciampini <marco.ciampo@gmail.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
