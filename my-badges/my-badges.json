@@ -131,5 +131,12 @@
     "desc": "I did 5 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/aliaghdam/gutenberg/commit/1e38a3cc3ddafe4acce3dc1553843af066496105\">1e38a3c</a>: fix: props order\n- <a href=\"https://github.com/aliaghdam/gutenberg/commit/306508531231ad1bbbc64c6b0bab4d9f23396489\">3065085</a>: fix: import clx\n- <a href=\"https://github.com/aliaghdam/gutenberg/commit/f333a9fdb9d1dca113354ddbe8149b9bdee76c47\">f333a9f</a>: fix: merge tests\n\nCo-authored-by: Marin Atanasov <8436925+tyxla@users.noreply.github.com>\n- <a href=\"https://github.com/aliaghdam/gutenberg/commit/d5cca1e09caea754060bf355482cbf88750e0143\">d5cca1e</a>: fix: changelog\n\nCo-authored-by: Marin Atanasov <8436925+tyxla@users.noreply.github.com>\n- <a href=\"https://github.com/aliaghdam/gutenberg/commit/d762c77c71472bc141ff0ee04978c14905b74761\">d762c77</a>: fix: use clx for classname\n\nCo-authored-by: Marin Atanasov <8436925+tyxla@users.noreply.github.com>",
     "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/blockeraai/blockera/pull/110\">#110</a>: ci: try to run e2e test dynamically on parallel",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
