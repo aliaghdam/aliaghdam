@@ -145,5 +145,12 @@
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/aliaghdam/gutenberg/commit/e9fd5072b7118ee283238c2cf550bd3ccf8c08f8\">e9fd507</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/WordPress/gutenberg/pull/63157\">#63157</a>: Tooltip Component: Add custom class name support",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   }
 ]
