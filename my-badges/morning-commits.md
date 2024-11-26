@@ -4,12 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/better-studio/better-amp/commit/3b013fe7222a5d8eb2d0a9dc1aa640561ff2a190">3b013fe</a>
-- <a href="https://github.com/better-studio/better-amp/commit/f9380a5e98498dae189dd77989e15a0a34a80f31">f9380a5</a>
-- <a href="https://github.com/better-studio/better-amp/commit/fe52ae596842e11ac2ef30ba15a20fa5533b83a1">fe52ae5</a>
-- <a href="https://github.com/better-studio/better-amp/commit/8794148c134472892a61f2fc453007c9f1afcadb">8794148</a>
-- <a href="https://github.com/better-studio/better-amp/commit/f99ff2d9ca788905d9cf2816248c424dcada0cc1">f99ff2d</a>
-- <a href="https://github.com/better-studio/better-amp/commit/0985df7ea9e5b12c1a37896f64ee6442fbd35829">0985df7</a>
+- <a href="https://github.com/better-studio/better-amp/commit/43ff63b23de118332d2a81a1241639fb63c9c801">43ff63b</a>
+- <a href="https://github.com/better-studio/better-amp/commit/58c43fb46f9f1e21fbc454cb3341186cafbdd989">58c43fb</a>
+- <a href="https://github.com/better-studio/better-amp/commit/3c6ae114d2140fbeab8eb4aeb8e0702d112ad696">3c6ae11</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
