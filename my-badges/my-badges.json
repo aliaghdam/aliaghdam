@@ -93,8 +93,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"to\".",
-    "body": "My favorite commit message words are:\n\n1. to (used 64 times)\n2. and (used 44 times)\n3. fix: (used 42 times)\n4. for (used 40 times)\n5. style (used 35 times)",
+    "desc": "My favorite word is \"-\".",
+    "body": "My favorite commit message words are:\n\n1. - (used 45 times)\n2. fix: (used 42 times)\n3. style (used 35 times)\n4. * (used 34 times)\n5. fixed: (used 31 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
