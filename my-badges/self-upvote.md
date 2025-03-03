@@ -2,6 +2,7 @@
 <strong>I liked my own comment so much that I upvoted it.</strong>
 <br><br>
 
+* <a href="https://github.com/blockeraai/blockera/pull/267">🚀</a>
 * <a href="https://github.com/blockeraai/blockera/pull/259">👍</a>
 
 
