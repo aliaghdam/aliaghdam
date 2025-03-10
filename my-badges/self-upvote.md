@@ -4,6 +4,7 @@
 
 * <a href="https://github.com/blockeraai/blockera/pull/267">🚀</a>
 * <a href="https://github.com/blockeraai/blockera/pull/259">👍</a>
+* <a href="https://github.com/blockeraai/blockera/pull/273">🎉</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
