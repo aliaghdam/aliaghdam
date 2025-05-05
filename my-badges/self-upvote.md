@@ -4,10 +4,10 @@
 
 * <a href="https://github.com/blockeraai/blockera/pull/267">🚀</a>
 * <a href="https://github.com/blockeraai/blockera/pull/296">🚀</a>
+* <a href="https://github.com/blockeraai/blockera/pull/323">🎉</a>
 * <a href="https://github.com/blockeraai/blockera/pull/259">👍</a>
 * <a href="https://github.com/blockeraai/blockera/pull/273">🎉</a>
 * <a href="https://github.com/blockeraai/blockera/pull/276">🚀</a>
-* <a href="https://github.com/blockeraai/blockera/pull/323">🎉</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
